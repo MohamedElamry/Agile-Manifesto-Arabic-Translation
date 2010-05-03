@@ -1,53 +1,53 @@
-doctype
-  -//W3C//DTD HTML 3.2 Final//EN
+﻿doctype
+  -//W3C//DTD HTML 3.2 Final//AR
 title
-  Principles behind the Agile Manifesto
+  مبادئ البرامج الرشيقة
 we_follow
-  We follow these principles:
+  نحن نلتزم بهذه المبادئ
 principle_1
-  Our highest priority is to satisfy the customer<br>
-  through early and continuous delivery<br>
-  of valuable software.
+  هدفنا الأسمى هو إرضاء العميل عن طريق<br>
+  التسليم المبكر والمتواصل لبرمجيات ذات قيمة.
 principle_2
-  Welcome changing requirements, even late in <br>
-  development. Agile processes harness change for <br>
-  the customer's competitive advantage.
+  اسمح بالتغييرات على الرحب والسعة حتى<br>
+  في مراحل التطوير المتأخرة. فالمنظومات<br>
+  الرشيقة تسخر التغير لصالح الميزة التنافسية للعميل.
 principle_3
-  Deliver working software frequently, from a <br>
-  couple of weeks to a couple of months, with a <br>
-  preference to the shorter timescale.
+  قدم برامج صالحة للعمل على فترات، من<br>
+  أسبوعين إلى شهرين، مع مراعاة أفضلية<br>
+  قصر الفترة الزمنية.
 principle_4
-  Business people and developers must work <br>
-  together daily throughout the project.
+  يعمل كلاً من مسئولي الأعمال والمطورين معاً<br>
+  يومياً خلال فترة المشروع.
 principle_5
-  Build projects around motivated individuals. <br>
-  Give them the environment and support they need, <br>
-  and trust them to get the job done.
+  اعتمد في بناء المشاريع على أفراد متحمسين.<br>
+  وفر لهم البيئة المناسبة والدعم اللازم،<br>
+  وامنحهم الثقة من أجل إنجاز العمل.
 principle_6
-  The most efficient and effective method of <br>
-  conveying information to and within a development <br>
-  team is face-to-face conversation.
+  أكثر الطرق فاعلية وتأثيراً لتوصيل<br>
+  المعلومات إلى وبين أفراد فريق التطوير هي<br>
+  التخاطب وجهاً إلى وجه.
 principle_7
-  Working software is the primary measure of progress.
+  البرنامج الصالح للعمل هو المقياس الرئيسي للتقدم.
 principle_8
-  Agile processes promote sustainable development. <br>
-  The sponsors, developers, and users should be able <br>
-  to maintain a constant pace indefinitely.
+  المنظومات الرشيقة تشجع التطوير المستمر. ينبغي<br>
+  على الرعاة والمطورين والمستخدمين أن يكونوا<br>
+  قادرين على الحفاظ على معدل ثابت إلى الأبد.
 principle_9
-  Continuous attention to technical excellence <br>
-  and good design enhances agility.
+  الاهتمام المستمر بالتفوق التقني وكذلك التصميم<br>
+  الجيد يعززان القدرة على الحركة الرشيقة.
 principle_10
-  Simplicity--the art of maximizing the amount <br>
-  of work not done--is essential.
+  البساطة مبدأ أساسي -- ألا وهي فن اتباع أقصر<br>
+  الطرق لإنجاز المهام عن طريق تبسيط خطوات<br>
+  العمل واختصارها بأقصى قدر ممكن.
 principle_11
-  The best architectures, requirements, and designs <br>
-  emerge from self-organizing teams.
+  إن أفضل البنيات والمواصفات والتصميمات<br>
+  تنبثق من فرق العمل ذاتية التنظيم.
 principle_12
-  At regular intervals, the team reflects on how <br>
-  to become more effective, then tunes and adjusts <br>
-  its behavior accordingly.
+  على فريق العمل أن يفكر مليا، على فترات<br>
+  منتظمة، في كيفية رفع كفاءته وفاعليته، ثم<br>
+  يعدل سلوكه وفقا لذلك.
 links
-  <a href="manifesto.html">Return to Manifesto</a><br>
+  <a href="manifesto.html">عودة للاعلان</a><br>
 
 -----------
 
