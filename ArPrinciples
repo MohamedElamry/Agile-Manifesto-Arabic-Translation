@@ -1,0 +1,59 @@
+doctype
+  -//W3C//DTD HTML 3.2 Final//EN
+title
+  Principles behind the Agile Manifesto
+we_follow
+  We follow these principles:
+principle_1
+  Our highest priority is to satisfy the customer<br>
+  through early and continuous delivery<br>
+  of valuable software.
+principle_2
+  Welcome changing requirements, even late in <br>
+  development. Agile processes harness change for <br>
+  the customer's competitive advantage.
+principle_3
+  Deliver working software frequently, from a <br>
+  couple of weeks to a couple of months, with a <br>
+  preference to the shorter timescale.
+principle_4
+  Business people and developers must work <br>
+  together daily throughout the project.
+principle_5
+  Build projects around motivated individuals. <br>
+  Give them the environment and support they need, <br>
+  and trust them to get the job done.
+principle_6
+  The most efficient and effective method of <br>
+  conveying information to and within a development <br>
+  team is face-to-face conversation.
+principle_7
+  Working software is the primary measure of progress.
+principle_8
+  Agile processes promote sustainable development. <br>
+  The sponsors, developers, and users should be able <br>
+  to maintain a constant pace indefinitely.
+principle_9
+  Continuous attention to technical excellence <br>
+  and good design enhances agility.
+principle_10
+  Simplicity--the art of maximizing the amount <br>
+  of work not done--is essential.
+principle_11
+  The best architectures, requirements, and designs <br>
+  emerge from self-organizing teams.
+principle_12
+  At regular intervals, the team reflects on how <br>
+  to become more effective, then tunes and adjusts <br>
+  its behavior accordingly.
+links
+  <a href="manifesto.html">Return to Manifesto</a><br>
+
+-----------
+
+''(the above <hr> marks the end of content)''
+
+Use the following scrips to preview and publish this content.
+
+	* http:preview.cgi
+	* http:publish.cgi

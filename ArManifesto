@@ -1,0 +1,50 @@
+doctype
+  -//W3C//DTD HTML 3.2 Final//EN
+title
+  Manifesto for Agile Software Development
+meta_description
+  We are uncovering better ways of developing software
+  by doing it and helping others do it. These are our
+  values and principles.
+meta_keywords
+  agilemanifesto agilealliance alliance manifesto,
+  agile programming, agile development,
+  extreme programming, XP, software project management,
+  iterative development, collaborative development,
+  software engineering best practices, software development,
+  best practices
+summary
+  We are uncovering better ways of developing<br>
+  software by doing it and helping others do it.<br>
+  Through this work we have come to value:<br>
+values
+  <b>Individuals and interactions </b>over processes and tools<br>
+  <b>Working software </b>over comprehensive documentation<br>
+  <b>Customer collaboration </b>over contract negotiation<br>
+  <b>Responding to change </b>over following a plan<br>
+conclusion
+  That is, while there is value in the items on<br>
+  the right, we value the items on the left more.<br>
+copyright
+  &copy; 2001, the above authors<br>
+  this declaration may be freely copied in any form, <br>
+  but only in its entirety through this notice.
+links
+  <a href=principles.html>Twelve Principles of Agile Software</a><br><br>
+  <a href=/sign/signup.cgi>Become a Signatory</a><br>
+  <a href=/sign/display.cgi>View Signatories</a><br><br>
+  <a href=/authors.html>About the Authors</a><br>
+  <a href=/history.html>About the Manifesto</a><br>
+  <a href="http://www.agilealliance.org/show/2548">Help us translate the Manifesto</a>
+
+credits
+  site design and artwork &copy; 2001, Ward Cunningham
+
+-----------
+
+''(the above <hr> marks the end of content)''
+
+Use the following scrips to preview and publish this content.
+
+	* http:preview.cgi
+	* http:publish.cgi
